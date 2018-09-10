@@ -6,14 +6,13 @@ ashrao@gmail.com
 > Skilled network engineer with close to 2 years of hands on experience in networking and automation. Comfortable in picking up new technologies and not afraid to experiment new technologies. Seeking an opportunity as a CI/DevOps engineer to leverage and enhance my existing skills. Also interested in machine learning, artificial intelligence, and actively working on a project on similar lines.
 
 ### SKILLS
-| Technology             | Tools                                                |
-| ------                 | ------                                               |
-| Version control systems | SVN, Git |
-| Networking | Gateways, Routers, TCP/IP, IPsec, NAT/PAT |
-| Networking Tools| Netcat, iPerf, EchoTool, Wireshark, tcpdump |
-| Automation | Shell scripting, PowerShell, Selenium |
-| Operating Systems | Windows Servers and Clients, Linux (Red Hat, Ubuntu, SUSE) |
-| Product Management | Jira |
+
+> - __Version control systems__ | SVN, Git 
+> - __Networking__ | Gateways, Routers, TCP/IP, IPsec, NAT/PAT 
+> - __Networking Tools__ | Netcat, iPerf, EchoTool, Wireshark, tcpdump 
+> - __Automation__ | Shell scripting, PowerShell, Selenium 
+> - __Operating Systems__ | Windows Servers and Clients, Linux (Red Hat, Ubuntu, SUSE) 
+> - __Product Management__ | Jira 
 
 ### EXPERIENCE
 ##### UNISYS, Bangalore — Associate Engineer
