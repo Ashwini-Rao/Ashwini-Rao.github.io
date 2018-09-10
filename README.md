@@ -6,8 +6,8 @@ ashrao@gmail.com
 > Skilled network engineer with close to 2 years of hands on experience in networking and automation. Comfortable in picking up new technologies and not afraid to experiment new technologies. Seeking an opportunity as a CI/DevOps engineer to leverage and enhance my existing skills. Also interested in machine learning, artificial intelligence, and actively working on a project on similar lines.
 
 ### SKILLS
-| Technology | Tools |
-| ------ | ------ |
+| Technology             | Tools                                                |
+| ------                 | ------                                               |
 | Version control systems | SVN, Git |
 | Networking | Gateways, Routers, TCP/IP, IPsec, NAT/PAT |
 | Networking Tools| Netcat, iPerf, EchoTool, Wireshark, tcpdump |
