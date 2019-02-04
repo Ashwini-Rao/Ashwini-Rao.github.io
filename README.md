@@ -38,8 +38,8 @@ August 2016 - December 2018
 
 ### SKILLS
 
-> Data Science (Python, R, Jupyter, Markdown)
-> Version control systems (Git)
-> Networking Tools (Netcat, iPerf, EchoTool, Wireshark, tcpdump)
-> Automation (Shell scripting, PowerShell, Selenium, Python)
-> Product Management (Jira)
+> - Data Science (Python, R, Jupyter, Markdown)
+> - Version control systems (Git)
+> - Networking Tools (Netcat, iPerf, EchoTool, Wireshark, tcpdump)
+> - Automation (Shell scripting, PowerShell, Selenium, Python)
+> - Product Management (Jira)
