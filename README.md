@@ -4,7 +4,7 @@
 > - https://ashwini-rao.github.io/ 
 
 ### SUMMARY
-> A skilled engineer with 2+ years of hands-on experience in **Machine Learning** and **DevOps**. Comfortable in picking up new technologies and not afraid to experiment with new ones. Seeking an opportunity as a Data Scientist to leverage my existing skills and contribute along the same lines.
+> A skilled engineer with 2+ years of hands-on experience in **Machine Learning** and **DevOps**. Competent in supervised and unsupervised learning, predictive modeling, machine learning, probability distributions, sampling, ensembling, data extraction, and microservices. Interested in computer vision, natural language processing, graphs, networks, and AI.
 
 ### Projects
 
@@ -41,5 +41,5 @@ August 2016 - December 2018
 > - Data Science (Python, R, Jupyter, Markdown)
 > - Version control systems (Git)
 > - Networking Tools (Netcat, iPerf, EchoTool, Wireshark, tcpdump)
-> - Automation (Shell scripting, PowerShell, Selenium, Python)
+> - Automation (Shell scripting, PowerShell, Selenium)
 > - Product Management (Jira)
