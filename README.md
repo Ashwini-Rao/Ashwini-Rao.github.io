@@ -35,4 +35,5 @@ August 2016 - December 2018
 ### SKILLS
 
 > Technology - Python | Jupyter notebooks | R | Git | Shell scripting | Jira | neo4j | Flask | APIs
+
 > ML - NLP | Recommender engines | knn | customer segmentation | sampling methods | label encoding | word embedding | entity resolution | classification
