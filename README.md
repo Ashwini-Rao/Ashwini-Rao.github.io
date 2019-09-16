@@ -4,32 +4,28 @@
 > - https://ashwini-rao.github.io/ 
 
 ### SUMMARY
-> A skilled engineer with 2+ years of hands-on experience in **Machine Learning** and **DevOps**. Competent in supervised and unsupervised learning, predictive modeling, machine learning, probability distributions, sampling, ensembling, data extraction, and microservices. Interested in computer vision, natural language processing, graphs, networks, and AI.
-
-### Projects
-
-> - [__Bangalore city road traffic accidents (1980-2001)__](https://github.com/Ashwini-Rao/bangalore-city-traffic-accidents-analysis-1990-2006)
-An analytics journey looking at road traffic patterns in Bangalore city during 1980-2001. The project explores exploratory analysis including data pre-processing, factor analysis, principal component analysis, clustering, and graphs. Shows some interesting insights into peak locations, accident types, and groups of vehicles involved.
-
-> - [__Machine learning model as a web service__](https://github.com/Ashwini-Rao/ExposingModelAsAPI)
-Implementation of exposing an R model as an API, we can let other applications to use model for the purposes it is designed for without having to worry about the underlying environment/architecture. You can expose plots, model metrics, scoring as APIs to consume.
-
-> - [__VM configuration using PowerShell__](https://github.com/Ashwini-Rao/Configuring-VMs-With-Powershell)
-Create multiple VMs of different OS versions from existing templates in the vSphere Web Client. It also configures the basic configurations and deploys it.
+> A skilled engineer with 3 years of hands-on experience in Machine Learning. Competent in supervised and unsupervised learning, predictive modeling, machine learning, probability distributions, sampling, ensembling, and  data extraction. Specialized in natural language processing, building recommender systems, and customer segmentation.
 
 ### EXPERIENCE
+##### JOBSFORHER, Bangalore — Data Scientist Engineer
+February 2019 - Present
+
+- Built a hybrid architecture of recommender systems from scratch for job recommendations, mentor-mentee recommendations, and upskilling training programs for the in-house application
+- Set up an entire architecture for mining text from varying resume formats, storing unstructured data in Cassandra, useful metadata in graph database (neo4j) for powering the recommender systems to power over 10k+ resumes
+- Feature engineered raw text data to create meaningful information using custom word embeddings; leveraged entity resolution, text statistics, Siamese networks to create usable and meaningful data, cleaning unstructured data, and correcting textual data
+- Utilized segmentation (kmeans, knn) to understand customer demographics and build a customer segmentation model to target specific customers with marketing campaigns and reporting at CXO level with key insights
+- Built a topic modeler (LDA) to understand the range of topics being posted/discussed  by customers in the company portal, reducing keywords to relevant topics, and providing insights into the company’s customer base
+- Used historic data to build a churn prediction model to target customers leaving the company portal using a last inactive rolling period of 4 months
+- Experienced in click stream analytics to understand a customers journey in the company portal to understand what interests users and what doesn’t, and ultimately feeding into the recommender system
+
 ##### UNISYS, Bangalore — Associate Engineer
 August 2016 - December 2018
 
-**Data Science**
-- Developed an intelligent **Intrusion Detection System** using a tree-based classifier (**Random Forest**) to identify unusual logins. Used **informed oversampling** to train the model for handling overfit situations. Deployed the **model as a Rest API** for classification on demand.
-- **Automated data extraction** from tables in PDF files using **tabula**, data pre-processing, and creating the analytical dataset using Python. This led to directly consume data without any manual effort.
-
-**DevOps**
-- Successfully automated test cases on the web portal using **Selenium** with Java and TestNG framework, resulting in improving the overall rigor and reducing manual effort.
+- Developed an Intrusion Detection System using a tree-based classifier (Random Forest) to identify unusual logins by encoding location, geo-tags, IP address patterns, session information, cookies, and sessions; used informed oversampling to train the model for handling overfit situations
+- Automated data extraction from tables in PDF files using tabula of over 300 network manuals and datasheets of legacy systems
+- Experienced in web scraping, data pre-processing, and creating the analytical dataset using beautifulsoup and Python. 
+- Successfully automated test cases on the web portal using Selenium with Java and TestNG framework, resulting in improving the overall rigor and reducing manual effort
 - Automated the VyOS router’s NAT/PAT configuration using shell scripts, thereby making it easy to set up large environments.
-- Practical knowledge on weak CRL checking, creating self-signed certificates using **PowerShell, TCP/IP protocol suite, IPsec, NAT/PAT** routers and gateways.
-- Worked on networking tools such as Netcat, EchoTool, iPerf  for sending/receiving TCP/UDP packets, and Wireshark, tcpdump for capturing packets and analyzing them.
 
 ### EDUCATION
 ##### Bangalore Institute of Technology, Bangalore - BE Computer Science (VTU 2nd Rank) - 85.16%, August 2012 - May 2016
@@ -38,8 +34,5 @@ August 2016 - December 2018
 
 ### SKILLS
 
-> - Data Science (Python, R, Jupyter, Markdown)
-> - Version control systems (Git)
-> - Networking Tools (Netcat, iPerf, EchoTool, Wireshark, tcpdump)
-> - Automation (Shell scripting, PowerShell, Selenium)
-> - Product Management (Jira)
+> Technology - Python | Jupyter notebooks | R | Git | Shell scripting | Jira | neo4j | Flask | APIs
+> ML - NLP | Recommender engines | knn | customer segmentation | sampling methods | label encoding | word embedding | entity resolution | classification
